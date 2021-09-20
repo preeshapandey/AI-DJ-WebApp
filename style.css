@@ -1,0 +1,35 @@
+.heading{
+    background-color:hotpink;
+    font-size:23px;
+    margin-top:0;
+    height:25px;
+}
+.note{
+    background-color: hotpink;
+    font-size: 18px;
+    margin-top:0px;
+    height:25px;
+}
+.play{
+    font-size:20px;
+    background:hotpink;
+    width:90px;
+    font-weight:500;
+}
+body{
+    background-size:cover;
+}
+
+.disk{
+    width:200px;
+    float:left;
+}
+.disk2{
+    width:200px;
+    float:right;
+}
+
+canvas{
+    border:solid black;
+    border-width:4px;
+}
